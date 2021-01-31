@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204201982288",
+    "project_id": "rezzkos-9e5b8",
+    "storage_bucket": "rezzkos-9e5b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204201982288:android:3b8bfd31c2dacd6276d455",
+        "android_client_info": {
+          "package_name": "com.example.rezzkos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204201982288-ud8oj7k38bo20g8u3te61fdpcnfkqq8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIrWpofTvTAi_wPbdTktPzcDd1HnyE0R4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204201982288-ud8oj7k38bo20g8u3te61fdpcnfkqq8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
